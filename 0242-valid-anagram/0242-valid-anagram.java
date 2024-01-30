@@ -7,10 +7,10 @@ class Solution {
 
         for(int i=0;i<s.length();i++)
         {
-            int sChar = s.charAt(i) - 'a';
-            int tChar = t.charAt(i) - 'a';
-            arr[sChar] += 1;
-            arr[tChar] -= 1;
+            int sCharPosition = s.charAt(i) - 'a';
+            int tCharPosition = t.charAt(i) - 'a';
+            arr[sCharPosition] += 1;
+            arr[tCharPosition] -= 1;
         }
 
         for(int x: arr)
