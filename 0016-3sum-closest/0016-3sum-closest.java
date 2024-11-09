@@ -13,7 +13,6 @@ class Solution {
                 if(sum==target) return sum;
                 if(Math.abs(closest-target)>Math.abs(sum-target))
                 {
-                    System.out.println(closest+" "+sum);
                     closest = sum;
                 }
                 
@@ -21,8 +20,6 @@ class Solution {
                 else j++;
             }
         }
-
-        if(closest ==Integer.MAX_VALUE) return 0;
         return closest;
         
     }
