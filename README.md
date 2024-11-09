@@ -15,4 +15,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/NIrajan-15/Leetcode/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/NIrajan-15/Leetcode/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
