@@ -43,7 +43,6 @@ class Solution {
             nums = nums - base;
         }
         if(count==4) return new StringBuilder(four);
-        if(count==5) return new StringBuilder(five);
         if(count==9) return new StringBuilder(nine);
         return current;
     }
