@@ -1,77 +1,50 @@
 class Solution {
-    StringBuilder ans = new StringBuilder();
+    int nums;
     public String intToRoman(int num) {
-        int count = 0;
-        StringBuilder current = new StringBuilder();
-        while(num>=1000)
+        StringBuilder ans = new StringBuilder();
+        nums = num;
+        while(nums>=1)
         {
-            current.append("M");
-            num = num-1000;
-            
-        }
-        ans.append(current);
-        current= new StringBuilder();
-        while(num>=100)
-        {
-            count++;
-            if(count==5)
+            if(nums>=1000)
             {
-                current = new StringBuilder();
-                current.append("D");
+                ans.append(helper(0, new StringBuilder(), "", "", "", 1000, 'M'));
+            }
+            else if(nums>=100)
+            {
+                ans.append(helper(0, new StringBuilder(), "CD", "D", "CM", 100, 'C'));
+            }
+            else if(nums>=10)
+            {
+                ans.append(helper(0, new StringBuilder(), "XL", "L", "XC", 10, 'X'));
             }
             else
             {
-                current.append('C');
+                ans.append(helper(0, new StringBuilder(), "IV", "V", "IX", 1, 'I'));
             }
-            
-            num = num - 100;
         }
-        if(count==4) ans.append("CD");
-        else if(count==9) ans.append("CM");
-        else if(count==5) ans.append("D");
-        else ans.append(current);
-        current = new StringBuilder();
-        count=0;
-        while(num>=10)
-        {
-            count++;
-            if(count==5)
-            {
-                current = new StringBuilder();
-                current.append("L");
-            }
-            else
-            {
-                current.append("X");
-            }
-            num = num - 10;
-        }
-        if(count==4) ans.append("XL");
-        else if(count==9) ans.append("XC");
-        else if(count==5) ans.append("L");
-        else ans.append(current);
-        current = new StringBuilder();
-        count = 0;
-        while(num>=1)
-        {
-            count++;
-            if(count==5)
-            {
-                current = new StringBuilder();
-                current.append("V");
-            }
-            else
-            {
-                current.append("I");
-            }
-            num = num - 1;
-        }
-        if(count==4) ans.append("IV");
-        else if(count==9) ans.append("IX");
-        else if(count==5) ans.append("V");
-        else ans.append(current);
-
         return ans.toString();
 
+    }
+
+    private StringBuilder helper(int count, StringBuilder current, String four, String five, String nine,  int base, char Num)
+    {
+        while(nums>=base)
+        {
+            count++;
+            if(count==5)
+            {
+                current = new StringBuilder();
+                current.append(five);
+            }
+            else
+            {
+                current.append(Num);
+            }
+            nums = nums - base;
+        }
+        if(count==4) return new StringBuilder(four);
+        if(count==5) return new StringBuilder(five);
+        if(count==9) return new StringBuilder(nine);
+        return current;
     }
 }
