@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/NIrajan-15/Leetcode/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/NIrajan-15/Leetcode/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/NIrajan-15/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/NIrajan-15/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/NIrajan-15/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NIrajan-15/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0853-most-profit-assigning-work](https://github.com/NIrajan-15/Leetcode/tree/master/0853-most-profit-assigning-work) |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/NIrajan-15/Leetcode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/NIrajan-15/Leetcode/tree/master/0078-subsets) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,4 +74,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/NIrajan-15/Leetcode/tree/master/0853-most-profit-assigning-work) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/NIrajan-15/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
