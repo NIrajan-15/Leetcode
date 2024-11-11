@@ -20,7 +20,7 @@ class Solution {
        {
             if(st.charAt(i)!=current)
             {
-                System.out.println(count+" "+current);
+
                 result.append(count);
                 result.append(current);
                 current = st.charAt(i);
@@ -31,7 +31,6 @@ class Solution {
                 count++;
             }
        }
-       System.out.println(count+" "+current);
        result.append(count);
        result.append(current);
        return result.toString();
