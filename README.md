@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/NIrajan-15/Leetcode/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/NIrajan-15/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/NIrajan-15/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/NIrajan-15/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0853-most-profit-assigning-work](https://github.com/NIrajan-15/Leetcode/tree/master/0853-most-profit-assigning-work) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/NIrajan-15/Leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/NIrajan-15/Leetcode/tree/master/0119-pascals-triangle-ii) |
 ## Simulation
 |  |
 | ------- |
