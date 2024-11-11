@@ -20,9 +20,7 @@ class Solution {
                 max = Math.max(arr[arrIndex][1], max);
                 arrIndex++;
             }
-            
             sum += max;
-            System.out.println(worker[i]+" "+sum);
         }
         return sum;
     }
