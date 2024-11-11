@@ -2,7 +2,7 @@ class Solution {
 
     public String countAndSay(int n) {
         String encoded = "1";
-        for(int i=1;i<n;i++)
+        for(int i=2;i<=n;i++)
         {
             encoded = encode(encoded);
 
