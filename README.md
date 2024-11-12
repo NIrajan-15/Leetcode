@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/NIrajan-15/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/NIrajan-15/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NIrajan-15/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0134-gas-station](https://github.com/NIrajan-15/Leetcode/tree/master/0134-gas-station) |
 | [0853-most-profit-assigning-work](https://github.com/NIrajan-15/Leetcode/tree/master/0853-most-profit-assigning-work) |
 ## Two Pointers
 |  |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/NIrajan-15/Leetcode/tree/master/0134-gas-station) |
 | [0853-most-profit-assigning-work](https://github.com/NIrajan-15/Leetcode/tree/master/0853-most-profit-assigning-work) |
 ## Bit Manipulation
 |  |
