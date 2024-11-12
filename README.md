@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/NIrajan-15/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/NIrajan-15/Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/NIrajan-15/Leetcode/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/NIrajan-15/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0633-sum-of-square-numbers](https://github.com/NIrajan-15/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/NIrajan-15/Leetcode/tree/master/0853-most-profit-assigning-work) |
 ## Sorting
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/NIrajan-15/Leetcode/tree/master/0012-integer-to-roman) |
+| [0160-intersection-of-two-linked-lists](https://github.com/NIrajan-15/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
 | ------- |
@@ -80,4 +82,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/NIrajan-15/Leetcode/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/NIrajan-15/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
