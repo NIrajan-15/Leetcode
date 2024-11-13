@@ -116,4 +116,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NIrajan-15/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+## Tree
+|  |
+| ------- |
+| [1035-cousins-in-binary-tree](https://github.com/NIrajan-15/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1035-cousins-in-binary-tree](https://github.com/NIrajan-15/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1035-cousins-in-binary-tree](https://github.com/NIrajan-15/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1035-cousins-in-binary-tree](https://github.com/NIrajan-15/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 <!---LeetCode Topics End-->
