@@ -13,6 +13,12 @@ class Solution {
                     }
                     continue;
                 }
+                else if(temperatures[i]<temperatures[i+1])
+                {
+                    ans[i] = 1;
+                }
+                else
+                {
                 int j=i+1;
                 while(j<ans.length&&temperatures[j]<=temperatures[i])
                 {
@@ -20,6 +26,7 @@ class Solution {
                 }
                 if(j>=ans.length) ans[i]=0;
                 else ans[i] = j-i;
+                }
             }
             return ans;
         }
