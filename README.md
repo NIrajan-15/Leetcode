@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/NIrajan-15/Leetcode/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/NIrajan-15/Leetcode/tree/master/0071-simplify-path) |
 | [0165-compare-version-numbers](https://github.com/NIrajan-15/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/NIrajan-15/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Database
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0012-integer-to-roman](https://github.com/NIrajan-15/Leetcode/tree/master/0012-integer-to-roman) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NIrajan-15/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/NIrajan-15/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -110,4 +112,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/NIrajan-15/Leetcode/tree/master/0739-daily-temperatures) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/NIrajan-15/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
