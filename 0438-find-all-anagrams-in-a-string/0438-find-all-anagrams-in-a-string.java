@@ -10,14 +10,16 @@ class Solution {
         String pStr = Arrays.toString(pArr);
         for(int i=0;i<=s.length()-p.length();i++)
         {
-               int[] current = new int[26];
+            if(pArr[s.charAt(i)-'a']>0)
+            {
+                int[] current = new int[26];
                 for(char ch: s.substring(i, i+p.length()).toCharArray())
                 {
                     current[ch-'a'] += 1;
                 }
                 
                 if(Arrays.toString(current).equals(pStr)) ans.add(i);
-            
+            }
         }
         return ans;
     }
