@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/NIrajan-15/Leetcode/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NIrajan-15/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/NIrajan-15/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0392-is-subsequence](https://github.com/NIrajan-15/Leetcode/tree/master/0392-is-subsequence) |
 | [0633-sum-of-square-numbers](https://github.com/NIrajan-15/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0853-most-profit-assigning-work](https://github.com/NIrajan-15/Leetcode/tree/master/0853-most-profit-assigning-work) |
 ## Sorting
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/NIrajan-15/Leetcode/tree/master/0043-multiply-strings) |
 | [0071-simplify-path](https://github.com/NIrajan-15/Leetcode/tree/master/0071-simplify-path) |
 | [0165-compare-version-numbers](https://github.com/NIrajan-15/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0392-is-subsequence](https://github.com/NIrajan-15/Leetcode/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/NIrajan-15/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/NIrajan-15/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2580-circular-sentence](https://github.com/NIrajan-15/Leetcode/tree/master/2580-circular-sentence) |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/NIrajan-15/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/NIrajan-15/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NIrajan-15/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/NIrajan-15/Leetcode/tree/master/0392-is-subsequence) |
 ## Simulation
 |  |
 | ------- |
