@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/NIrajan-15/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/NIrajan-15/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/NIrajan-15/Leetcode/tree/master/0134-gas-station) |
+| [0200-number-of-islands](https://github.com/NIrajan-15/Leetcode/tree/master/0200-number-of-islands) |
 | [0739-daily-temperatures](https://github.com/NIrajan-15/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-most-profit-assigning-work](https://github.com/NIrajan-15/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [1072-next-greater-node-in-linked-list](https://github.com/NIrajan-15/Leetcode/tree/master/1072-next-greater-node-in-linked-list) |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/NIrajan-15/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0200-number-of-islands](https://github.com/NIrajan-15/Leetcode/tree/master/0200-number-of-islands) |
 ## Stack
 |  |
 | ------- |
@@ -132,13 +134,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/NIrajan-15/Leetcode/tree/master/0200-number-of-islands) |
 | [1035-cousins-in-binary-tree](https://github.com/NIrajan-15/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/NIrajan-15/Leetcode/tree/master/0200-number-of-islands) |
 | [1035-cousins-in-binary-tree](https://github.com/NIrajan-15/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [1035-cousins-in-binary-tree](https://github.com/NIrajan-15/Leetcode/tree/master/1035-cousins-in-binary-tree) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/NIrajan-15/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
